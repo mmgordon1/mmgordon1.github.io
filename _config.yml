@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Mike M. Gordon"
 title_separator          : "-"
 name                     : &name "Mike M. Gordon"
-description              : &description "personal description"
-url                      : https://mmgordon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Assistant Professor at Virginia Tech"
+url                      : https://mmgordon1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mmgordon1/mmgordon.github.io"
+repository               : "mmgordon1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,7 +86,7 @@ author:
   location         : "Blacksburg, VA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=RXVkekUAAAAJ&hl=en"
-  email            : "mmgordon@vt.edu
+  email            : "mmgordon@vt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mmgordon1"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "mike-gordon-919b41107/"
+  linkedin         : "https://www.linkedin.com/in/mike-gordon-919b41107/"
   orcid            : "https://orcid.org/0000-0002-4720-6191"
   pinterest        :
   soundcloud       :
