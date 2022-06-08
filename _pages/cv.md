@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Civil and Environmental Engineering, University of Pittsburgh, 2012
+* M.S. in Civil Engineering, Auburn University, 2015
+* Ph.D in Business Analytics & Operations, University of Pittsburgh, 2021
 
 Work experience
 ======
