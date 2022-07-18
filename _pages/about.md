@@ -1,4 +1,4 @@
-#**About Me**
+# **About Me**
 
 I am a Assistant Professor in [Business Information Technology](https://bit.vt.edu/) at [Virginia Tech's Pamplin College of Business](https://pamplin.vt.edu/). My research interests include Socially Responsibility, Sustainability and Online Platforms/Marketplaces. 
 
