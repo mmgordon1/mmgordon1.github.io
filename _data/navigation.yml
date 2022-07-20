@@ -1,12 +1,12 @@
 # main links links
 main:
   - title: "Research"
-    url: /Research/
+    url: /research/
 
   - title: "Teaching"
-    url: /Teaching/ 
+    url: /teaching/ 
     
   - title: "CV"
-    url: https://www.dropbox.com/s/qkbw50wm9rpsjox/Gordon_CV.pdf?dl=0
+    url: /CV/
     
 
