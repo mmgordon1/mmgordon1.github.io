@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Virginia Tech"
 permalink: /teaching/
 author_profile: true
 ---
-
-# Virginia Tech
 **Global Operations & IT (BIT 4474)** Undergraduate, Academic Years 2020-21
 
 # University of Pittsburgh
