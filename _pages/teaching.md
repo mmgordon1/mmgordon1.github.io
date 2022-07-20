@@ -11,4 +11,4 @@ author_profile: true
 # University of Pittsburgh
 **Quantitative Methods** Instructor, Summer & Fall 2017
 
-**Decision Technology; Statistical Analysis; Operations and Global Supply Chain** Teaching Assistant, Various appointments 
+**Decision Technology; Statistical Analysis** Teaching Assistant, Various appointments 
