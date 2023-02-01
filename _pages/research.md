@@ -13,7 +13,7 @@ author_profile: true
 
 # Working Papers / Works in Progress
 - [Competing with Cause Marketing: Transactional vs. Non-Transactional Campaigns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4101541), with Arian Aflaki, Esther Gal-Or & Jennifer Shang. *(Under Review)*
-- Sustainable Investment: Synergistic Effects of Green Manufacturing and Social Responsibility in Competition, with Titing Cui, Esther Gal-Or, Michael Hamilton & Jennifer Shang.
+- [The Effects of Competition on Corporate Sustainability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4344348), with Titing Cui, Esther Gal-Or, Michael Hamilton & Jennifer Shang.
 - Trust Formation in International Crowdfunding.
 
 
