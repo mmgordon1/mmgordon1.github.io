@@ -4,7 +4,7 @@ title: "Virginia Tech"
 permalink: /teaching/
 author_profile: true
 ---
-**Global Operations & IT (BIT 4474)** Undergraduate, Academic Years 2020-21
+**Global Operations & IT (BIT 4474)** Undergraduate, Academic Years 2020-24
 
 # University of Pittsburgh
 **Quantitative Methods** Instructor, Summer & Fall 2017
