@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-Please see my [CV](https://mmgordon1.github.io/files/CV_Jan24.pdf).
+Please see my [CV](https://mmgordon1.github.io/files/GordonCV.pdf).
